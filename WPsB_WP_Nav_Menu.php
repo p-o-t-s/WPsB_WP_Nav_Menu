@@ -3,7 +3,7 @@
 /**
  * Class WPsB_WP_Nav_Menu
  *
- * wp_nav_menu() | Function | WordPress Developer Resources https://developer.wordpress.org/reference/functions/wp_nav_menu/
+ * Function Reference/register nav menu « WordPress Codex https://codex.wordpress.org/Function_Reference/register_nav_menu
  */
 class WPsB_WP_Nav_Menu
 {
